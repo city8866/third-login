@@ -25,7 +25,7 @@
   },  
   "autoload": {  
     "psr-4": {  
-      "city8866\\src\\": ""  
+      "city8866\\": ""  
     }  
   },  
   "config": {  
